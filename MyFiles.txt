@@ -1,1 +1,6 @@
-Ðây là file th? nghi?m
+ï¿½ï¿½y lï¿½ file th? nghi?m
+<html>
+<body>
+    <p>This is my page</p>
+</body>
+</html>
